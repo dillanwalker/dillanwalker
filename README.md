@@ -1,4 +1,4 @@
-### Hi, I'm Dillan 👋
+<img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> ### Hi, I'm Dillan 👋
 - I'm a Software developer, I love creating applications for Windows and scripts
 - I'm currently working with C# and Python
 
