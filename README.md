@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm Dillan 👋
+- I'm a Software developer, I love creating applications for Windows and scripts
+- I'm currently working with C# and Python
 
 <!--
 **EazyMcGee/EazyMcGee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
