@@ -5,7 +5,7 @@ Software Developer
 ------------------
 * 🌍  I'm based in Northern Ireland, UK
 * 🚀  I'm currently working on [Movie Library](http://:movielibrary)
-* 🧠  I'm learning MAUI
+* 🧠  I'm learning MAUI & WPF
 * 🤝  I'm open to collaborating on Open Source Projects
 * ⚡  I create stuff for games
 
