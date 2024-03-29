@@ -5,9 +5,9 @@ Software Developer
 ------------------
 * 🌍  I'm based in Northern Ireland, UK
 * 🚀  I'm currently working on internal applications for games
-* 🧠  I'm learning MAUI & WPF
+* 🧠  I'm learning WPF & Memory Management
 * 🤝  I'm open to collaborating on Open Source Projects
-* ⚡  I create stuff for games
+* ⚡  I create "stuff" for games
 
 ### Skills
 
