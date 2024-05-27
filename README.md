@@ -25,3 +25,5 @@ Software Developer
 <a href="http://www.github.com/EazyMcGee"><img src="https://github-readme-stats.vercel.app/api?username=EazyMcGee&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="EazyMcGee's GitHub stats" /></a>
 
 <a href="https://github.com/EazyMcGee" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EazyMcGee&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/eazymcgee?ext=activity)
