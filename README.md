@@ -4,10 +4,10 @@
 Software Developer
 ------------------
 * 🌍  I'm based in Northern Ireland, UK
-* 🚀  I'm currently working on internal applications for games
+* 🚀  I'm currently working on an application related to games
 * 🧠  I'm learning other languages & Memory Management
 * 🤝  I'm open to collaborating on Open Source Projects
-* ⚡  I create memory based applications for games
+* ⚡  I'm learning how to create internal based applications for games
 
 ### 💖 My Interests
 - 🎮 I love playing video games.
