@@ -9,6 +9,10 @@ Software Developer
 * 🤝  I'm open to collaborating on Open Source Projects
 * ⚡  I create memory based applications for games
 
+### 💖 My Interests
+- 🎮 I love playing video games.
+World of Warcraft, Factorio, Valorant and League of Legends.
+
 ### Skills
 
 <p align="left">
