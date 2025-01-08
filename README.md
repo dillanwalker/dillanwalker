@@ -7,7 +7,7 @@ Software Developer
 * 🚀  I'm currently working on various projects related to games and security
 * 🧠  I'm learning other languages & Memory Management
 * 🤝  I'm open to collaborating on Open Source Projects
-* ⚡  I'm learning how to create a password manager with various encryption methods
+* ⚡  I'm learning how to Further improve my knowledge of C# and Python
 
 ### 💖 My Interests
 - 🎮 I love playing video games.
