@@ -11,7 +11,6 @@ Software Developer
 
 ### 💖 My Interests
 - 🎮 I love playing video games.
-World of Warcraft, Factorio, Valorant and League of Legends.
 
 ### Skills
 
