@@ -10,7 +10,8 @@ Software Developer
 * ⚡  I'm learning how to Further improve my knowledge of C# and Python
 
 ### 💖 My Interests
-- 🎮 I love playing video games.
+- 🎮 Video games.
+- Manga/Anime.
 
 ### Skills
 
